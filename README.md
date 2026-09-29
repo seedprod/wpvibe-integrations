@@ -70,4 +70,4 @@ This repository contains only client configuration, public branding, and documen
 
 ## License
 
-The client configuration and documentation are MIT licensed. WPVibe names and logos remain the property of their respective owners; the license does not grant trademark rights. The hosted service has separate terms.
+The client configuration and documentation are MIT licensed. WPVibe names and logos remain the property of their respective owners; the license does not grant trademark rights. The hosted service is governed by the [WPVibe Terms of Service](https://wpvibe.ai/terms/) and [Privacy Policy](https://wpvibe.ai/privacy/).
