@@ -1,0 +1,9 @@
+{
+  "name": "wpvibe",
+  "version": "1.0.0",
+  "mcpServers": {
+    "wpvibe": {
+      "httpUrl": "https://mcp.wpvibe.ai/mcp"
+    }
+  }
+}

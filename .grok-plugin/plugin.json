@@ -1,0 +1,17 @@
+{
+  "name": "wpvibe",
+  "version": "1.0.0",
+  "description": "Connect your AI to WordPress: manage content, media, WooCommerce, plugins, and draft themes with approval gates for sensitive actions.",
+  "author": {
+    "name": "WPVibe by SeedProd",
+    "email": "support@wpvibe.ai"
+  },
+  "homepage": "https://wpvibe.ai",
+  "repository": "https://github.com/seedprod/wpvibe-integrations",
+  "license": "MIT",
+  "keywords": [
+    "wpvibe",
+    "wordpress",
+    "woocommerce"
+  ]
+}
